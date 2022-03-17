@@ -11,6 +11,6 @@ console.log('new-test-1 new changes')
 
 console.log('new-test-2 changes')
 
-console.log('new-test-3 changes')
+console.log('new-test-3 new changes')
 
 console.log('new-test-4 changes')
